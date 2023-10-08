@@ -1,9 +1,13 @@
 # code name: Akord
 Based on Astro Starter Kit: Basics
-Blog for Transcripts and ChatGPT instructions using Astro and Xata
+Blog for Transcripts and ChatGPT instructions using Astro, Tailwind, MDX (not MD), Xata
 
 ```sh
-npm create astro@latest -- --template basics
+FROM: https://www.youtube.com/watch?v=qBOz6TpYAOg
+AND: course proper
+IN: terminal node must be 18.14^:
+NOTE: _ underscore means Astro server will ignore
+READ: _01setup_and_structure.md
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
